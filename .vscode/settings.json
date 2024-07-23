@@ -13,7 +13,22 @@
         "chrono": "cpp",
         "limits": "cpp",
         "valarray": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "xutility": "cpp",
+        "utility": "cpp",
+        "array": "cpp",
+        "regex": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "stack": "cpp",
+        "xhash": "cpp",
+        "xlocinfo": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
 }
